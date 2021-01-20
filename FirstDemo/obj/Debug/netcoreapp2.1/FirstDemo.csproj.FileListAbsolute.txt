@@ -1,0 +1,15 @@
+D:\Pluralsight demo\FirstDemo\bin\Debug\netcoreapp2.1\FirstDemo.deps.json
+D:\Pluralsight demo\FirstDemo\bin\Debug\netcoreapp2.1\FirstDemo.runtimeconfig.json
+D:\Pluralsight demo\FirstDemo\bin\Debug\netcoreapp2.1\FirstDemo.runtimeconfig.dev.json
+D:\Pluralsight demo\FirstDemo\bin\Debug\netcoreapp2.1\FirstDemo.dll
+D:\Pluralsight demo\FirstDemo\bin\Debug\netcoreapp2.1\FirstDemo.pdb
+D:\Pluralsight demo\FirstDemo\obj\Debug\netcoreapp2.1\FirstDemo.csprojAssemblyReference.cache
+D:\Pluralsight demo\FirstDemo\obj\Debug\netcoreapp2.1\FirstDemo.AssemblyInfoInputs.cache
+D:\Pluralsight demo\FirstDemo\obj\Debug\netcoreapp2.1\FirstDemo.AssemblyInfo.cs
+D:\Pluralsight demo\FirstDemo\obj\Debug\netcoreapp2.1\FirstDemo.csproj.CoreCompileInputs.cache
+D:\Pluralsight demo\FirstDemo\obj\Debug\netcoreapp2.1\FirstDemo.RazorAssemblyInfo.cache
+D:\Pluralsight demo\FirstDemo\obj\Debug\netcoreapp2.1\FirstDemo.RazorAssemblyInfo.cs
+D:\Pluralsight demo\FirstDemo\obj\Debug\netcoreapp2.1\FirstDemo.RazorTargetAssemblyInfo.cache
+D:\Pluralsight demo\FirstDemo\obj\Debug\netcoreapp2.1\FirstDemo.dll
+D:\Pluralsight demo\FirstDemo\obj\Debug\netcoreapp2.1\FirstDemo.pdb
+D:\Pluralsight demo\FirstDemo\obj\Debug\netcoreapp2.1\FirstDemo.genruntimeconfig.cache

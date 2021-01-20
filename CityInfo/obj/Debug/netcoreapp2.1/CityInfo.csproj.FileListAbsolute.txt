@@ -1,0 +1,6 @@
+D:\Pluralsight demo\CityInfo\obj\Debug\netcoreapp2.1\CityInfo.csprojAssemblyReference.cache
+D:\Pluralsight demo\CityInfo\obj\Debug\netcoreapp2.1\CityInfo.AssemblyInfoInputs.cache
+D:\Pluralsight demo\CityInfo\obj\Debug\netcoreapp2.1\CityInfo.AssemblyInfo.cs
+D:\Pluralsight demo\CityInfo\obj\Debug\netcoreapp2.1\CityInfo.csproj.CoreCompileInputs.cache
+D:\Pluralsight demo\CityInfo\obj\Debug\netcoreapp2.1\CityInfo.RazorAssemblyInfo.cache
+D:\Pluralsight demo\CityInfo\obj\Debug\netcoreapp2.1\CityInfo.RazorAssemblyInfo.cs
